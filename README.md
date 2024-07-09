@@ -25,10 +25,4 @@
 > - Code Review는 다같이 한다.
 > - CodeConvention과 CommitConvention을 잘 지킨다.
 
-💡 **IOS앱개발 기초 프로젝트 발제 및 구현사항**
-> - [IOS 앱개발 프로젝트 발제](https://teamsparta.notion.site/Chapter-3-2-iOS-16da769f2b79430d84d532348f7c782b)
-
-
-💡 **SA문서** 💑
-> - [프로젝트 SA 문서](https://teamsparta.notion.site/iOS-df3e21723a3f4ea2ac0607013430df45)
 
